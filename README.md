@@ -1,1 +1,3 @@
-# Transformer_architectures_Financial_Sentiment_Analysis_on_Twitter
+# Dynamic Financial Sentiment Analysis on Twitter using Transformer Architectures and LLM Knowledge Distillation
+
+
