@@ -1,7 +1,7 @@
 # Financial News Sentiment Analysis on Twitter: Advanced augmentation techniques, Large Language models and Knowledge Distillation
 
 ## Overview
-This repository contains code and documentation for sentiment analysis on Twitter financial news using various methodologies, including conventional techniques like TF-IDF and advanced deep learning models such as distilBERT and LLM Text Generated Model. The aim of this research is to predict sentiment in financial tweets, leveraging a small labelled dataset of 32 examples.
+This repository contains code and documentation for sentiment analysis on Twitter financial news using various methodologies, including conventional techniques like TF-IDF and advanced deep learning models such as distilBERT and LLM Text Generated Model. The aim of this research is to predict sentiment in financial tweets, using a labelled dataset retrieved from Hugging face and simulating the situation of limited data availability (dataset of 32 labelled examples) to compute augmentation techniques such as Text Generation, Zero/Few Shot Learning, Word2Vec Similarities and other.
 
 ## Dataset
 The Twitter Financial News dataset comprises English-language tweets labelled as 'Bearish' (LABEL_0), 'Bullish' (LABEL_1), or 'Neutral' (LABEL_2) for sentiment analysis. The training set contains 9,938 tweets, and the validation set has 2,486 tweets.
